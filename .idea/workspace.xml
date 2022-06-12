@@ -20,7 +20,7 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:dev3" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
@@ -147,7 +147,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="dev3" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -180,6 +180,10 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="758" y="379" key="#Notifications/0.0.2048.1112/-2560.0.2048.1112@0.0.2048.1112" timestamp="1655026473280" />
+    <state x="93" y="93" width="1862" height="926" key="DiffContextDialog" timestamp="1655034060035">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="93" y="93" width="1862" height="926" key="DiffContextDialog/0.0.2048.1112/-2560.0.2048.1112@0.0.2048.1112" timestamp="1655034060035" />
     <state x="805" y="311" key="FileChooserDialogImpl" timestamp="1655025342754">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -188,9 +192,9 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="526" y="201" key="SettingsEditor/0.0.2048.1112/-2560.0.2048.1112@0.0.2048.1112" timestamp="1655026374753" />
-    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1655026846857">
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1655034072248">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="617" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112/-2560.0.2048.1112@0.0.2048.1112" timestamp="1655026846857" />
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112/-2560.0.2048.1112@0.0.2048.1112" timestamp="1655034072248" />
   </component>
 </project>

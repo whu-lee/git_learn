@@ -26,7 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3c76885-a786-4525-83bc-8d6667174506" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/com.lee.mybatis.dao/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.lee.mybatis.dao/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +65,7 @@
       <workItem from="1655024685083" duration="406000" />
       <workItem from="1655025106926" duration="203000" />
       <workItem from="1655025334405" duration="14000" />
-      <workItem from="1655025356554" duration="1082000" />
+      <workItem from="1655025356554" duration="2073000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1655024774108</created>
@@ -116,7 +116,21 @@
       <option name="project" value="LOCAL" />
       <updated>1655026152560</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="init dev3">
+      <created>1655026596640</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1655026596640</updated>
+    </task>
+    <task id="LOCAL-00009" summary="init dev3">
+      <created>1655026816960</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1655026816960</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,6 +176,10 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="617" y="215" key="#Deployment/0.0.2048.1112/-2560.0.2048.1112@0.0.2048.1112" timestamp="1655026384490" />
+    <state x="758" y="379" key="#Notifications" timestamp="1655026473280">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="758" y="379" key="#Notifications/0.0.2048.1112/-2560.0.2048.1112@0.0.2048.1112" timestamp="1655026473280" />
     <state x="805" y="311" key="FileChooserDialogImpl" timestamp="1655025342754">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -170,9 +188,9 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="526" y="201" key="SettingsEditor/0.0.2048.1112/-2560.0.2048.1112@0.0.2048.1112" timestamp="1655026374753" />
-    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1655026158033">
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1655026846857">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="617" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112/-2560.0.2048.1112@0.0.2048.1112" timestamp="1655026158033" />
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112/-2560.0.2048.1112@0.0.2048.1112" timestamp="1655026846857" />
   </component>
 </project>

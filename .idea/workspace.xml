@@ -20,14 +20,12 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:dev" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3c76885-a786-4525-83bc-8d6667174506" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b3c76885-a786-4525-83bc-8d6667174506" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +43,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../git_learn_old" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -58,6 +57,7 @@
       <workItem from="1655024685083" duration="406000" />
       <workItem from="1655025106926" duration="203000" />
       <workItem from="1655025334405" duration="14000" />
+      <workItem from="1655025356554" duration="620000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1655024774108</created>
@@ -80,7 +80,21 @@
       <option name="project" value="LOCAL" />
       <updated>1655025234027</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="init3">
+      <created>1655025381319</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1655025381319</updated>
+    </task>
+    <task id="LOCAL-00005" summary="init4">
+      <created>1655025405758</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1655025405758</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,7 +111,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="dev" />
                       </list>
                     </value>
                   </entry>
@@ -114,12 +128,18 @@
     <MESSAGE value="test" />
     <MESSAGE value="init" />
     <MESSAGE value="init 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="init 2" />
+    <MESSAGE value="init3" />
+    <MESSAGE value="init4" />
+    <option name="LAST_COMMIT_MESSAGE" value="init4" />
   </component>
   <component name="WindowStateProjectService">
     <state x="805" y="311" key="FileChooserDialogImpl" timestamp="1655025342754">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="805" y="311" key="FileChooserDialogImpl/0.0.2048.1112/-2560.0.2048.1112@0.0.2048.1112" timestamp="1655025342754" />
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1655025837530">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112/-2560.0.2048.1112@0.0.2048.1112" timestamp="1655025837530" />
   </component>
 </project>

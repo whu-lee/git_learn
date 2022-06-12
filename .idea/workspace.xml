@@ -20,18 +20,25 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:dev" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:dev3" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3c76885-a786-4525-83bc-8d6667174506" name="Default Changelist" comment="" />
+    <list default="true" id="b3c76885-a786-4525-83bc-8d6667174506" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/com.lee.mybatis.dao/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.lee.mybatis.dao/test.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev2" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2ATDSTdZSSgAhenKgoQDkUJmIoI" />
@@ -45,6 +52,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -57,7 +65,7 @@
       <workItem from="1655024685083" duration="406000" />
       <workItem from="1655025106926" duration="203000" />
       <workItem from="1655025334405" duration="14000" />
-      <workItem from="1655025356554" duration="620000" />
+      <workItem from="1655025356554" duration="1082000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1655024774108</created>
@@ -94,7 +102,21 @@
       <option name="project" value="LOCAL" />
       <updated>1655025405758</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="init5">
+      <created>1655026035665</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1655026035665</updated>
+    </task>
+    <task id="LOCAL-00007" summary="init5">
+      <created>1655026152560</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1655026152560</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,7 +133,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="dev" />
+                        <option value="dev3" />
                       </list>
                     </value>
                   </entry>
@@ -130,16 +152,27 @@
     <MESSAGE value="init 2" />
     <MESSAGE value="init3" />
     <MESSAGE value="init4" />
-    <option name="LAST_COMMIT_MESSAGE" value="init4" />
+    <MESSAGE value="init5" />
+    <MESSAGE value="init dev3" />
+    <option name="LAST_COMMIT_MESSAGE" value="init dev3" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="617" y="215" key="#Deployment" timestamp="1655026384490">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="617" y="215" key="#Deployment/0.0.2048.1112/-2560.0.2048.1112@0.0.2048.1112" timestamp="1655026384490" />
     <state x="805" y="311" key="FileChooserDialogImpl" timestamp="1655025342754">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="805" y="311" key="FileChooserDialogImpl/0.0.2048.1112/-2560.0.2048.1112@0.0.2048.1112" timestamp="1655025342754" />
-    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1655025837530">
+    <state x="526" y="201" key="SettingsEditor" timestamp="1655026374753">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="617" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112/-2560.0.2048.1112@0.0.2048.1112" timestamp="1655025837530" />
+    <state x="526" y="201" key="SettingsEditor/0.0.2048.1112/-2560.0.2048.1112@0.0.2048.1112" timestamp="1655026374753" />
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1655026158033">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112/-2560.0.2048.1112@0.0.2048.1112" timestamp="1655026158033" />
   </component>
 </project>
